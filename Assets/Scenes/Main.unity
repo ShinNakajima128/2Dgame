@@ -2757,7 +2757,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b753e7c4aaee0a444962a10b49428fca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  getTreasure: 0
 --- !u!1001 &808155253
 PrefabInstance:
   m_ObjectHideFlags: 0
